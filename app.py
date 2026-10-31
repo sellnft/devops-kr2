@@ -1,3 +1,4 @@
+# KR2: Рахманинов
 import os
 import socket
 
